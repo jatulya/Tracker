@@ -7,3 +7,14 @@
 2. Tailwind setup
     a. Follow the steps here
         https://tailwindcss.com/docs/installation/using-vite
+
+3. Frontend
+    1. Create a landing page in components/landing
+    2. Create topbar in components/shared
+    3. Create a profileLanding content page in components/landing
+    4. combine profileLanding and topbar in rootlayout
+    5. Create different tracker pages in root/pages
+    6. Use index.ts to combine their default export
+    7. Use a page constants.tsx to combine different tracker pages to their components, href, name and icons as object (using tsx instead of ts 'coz ts doesnt have react component element, which is one of the values of the objects)
+    7. Set up routes in App.tsx
+    
