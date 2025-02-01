@@ -1,0 +1,9 @@
+1. Starting
+    a. npm create vite@latest ./[give folder name if required]
+    b. Choose required stacks from the list that would be shown
+    c. npm install 
+    d. npm run dev (for starting the application)
+
+2. Tailwind setup
+    a. Follow the steps here
+        https://tailwindcss.com/docs/installation/using-vite
